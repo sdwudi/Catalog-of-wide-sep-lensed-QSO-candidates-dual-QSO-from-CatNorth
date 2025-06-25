@@ -1,6 +1,6 @@
-# Catalog-of-wide-sep-lensed-QSO-candidates-dual-QSO
-Wide sep lensed QSO candidates/dual QSO from CatNorth
-The research outcomes of this project comprise two distinct components: (1) lensed quasar (QSO) candidates, and (2) dual QSO systems selected based on velocity differences <2000 km/s and projected separations <100 kpc.
+# Catalog-of-wide-sep-lensed-QSO-candidates-dual-QSO from CatNorth
+
+Outcomes of this project comprise two distinct components: (1) lensed quasar (QSO) candidates, and (2) dual QSO systems selected based on velocity differences <2000 km/s and projected separations <100 kpc.
 
 Each component in this GitHub repository contains:
 1‌.Data tables‌ with column descriptions provided in the accompanying manuscript
