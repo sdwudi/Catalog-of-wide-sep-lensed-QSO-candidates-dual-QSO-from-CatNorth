@@ -8,12 +8,3 @@ Each component in this GitHub repository contains:
 
 2‌.Image sets‌ 
 
-# Optical-band spectra (when available);
-
-# Fundamental parameter summary of the target;
-
-# DESI Legacy Survey imaging;
-
-# ESI Legacy Survey residual;
-
-# Pan-STARRS1 (PS1) archival images.
