@@ -4,7 +4,7 @@ Outcomes of this project comprise two components: (1) wide sep lensed quasar (QS
 
 Each component in this GitHub repository contains:
 
-1‌.Data tables‌ with column descriptions provided in the accompanying manuscript
+1‌.Data tables‌ 
 
 2‌.Image sets‌ 
 
